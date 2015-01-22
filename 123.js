@@ -17,5 +17,16 @@ define(function (require, exports, module) {
 
     }
 
+    if(1){
+
+    }
+
+    /**
+     *
+     *
+     *
+     *
+     * @type {{}}
+     */
     module.exports = {};
 });
